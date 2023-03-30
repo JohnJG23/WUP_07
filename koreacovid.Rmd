@@ -48,6 +48,11 @@ The models above provide a representation of the disease killing males and femal
 
   
 ## Numerical results
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
 
 
 ## Inferential results 
