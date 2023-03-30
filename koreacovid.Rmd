@@ -62,7 +62,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+The inferential result provides a representation that more men are dying in Korea because of Covid-19. The odds ration of these results is a representation of the likely hood of men dying from this disease. There is 2.3 chance of a male dying over a female dying. This is why the notes that were taken from the outbreak of the disease are greater than what was hypothesized.    
 
 ## Conclusions
 
